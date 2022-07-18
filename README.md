@@ -24,9 +24,9 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 <div>
   <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
   <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src ="./images/javascript.svg" alt="JS logo" width="8%" title='JS'/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src ="./images/javascript.svg" alt="JS logo" width="8%" title='JavaScript'/></a>
   <a href="https://www.python.org/" target="_blank"><img src ="./images/python.svg" alt="Python logo" width="8%" title='Python'/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='html'/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='Html'/></a>
   <a href="https://reactjs.org/" target="_blank"><img src ="./images/react.svg" alt="React logo" width="8%" title='React'/></a>
   <a href="https://spring.io/" target="_blank"><img src ="./images/spring.svg" alt="HTML5 logo" width="8%" title='Spring'/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="8%" title='MySQL'/></a>
@@ -37,7 +37,7 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
                                                                  
 ## Tools
 <div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/vs.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/vs.svg" alt="VS Code logo" width="8%" title='Visual Studio'/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src ="./images/IntelliJ.svg" alt="IntelliJ logo" width="8%" title='IntelliJ'/></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src ="./images/Pycharm.svg" alt="Pycharm logo" width="8%" title='Pycharm'/></a>
   <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/></a>
