@@ -12,6 +12,13 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 - 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming**
 
+# Contact me
+
+<div>
+  <a href="https://www.linkedin.com/in/omer-desezar-0864591b0/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
+  &nbsp&nbsp
+ <a href="mailto:dashhawk96@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="dashhawk96@gmail.com" width="8%" title='dashhawk96@gmail.com'/></a>
+</div>
 
 ## Technologies
 <div>
