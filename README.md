@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omer desezar</h1>
+<h1 align="center">Hi 👋, I'm Omer Desezar</h1>
 <h3 align="center";">A passionate software developer from Israel.</br>
 I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
