@@ -35,8 +35,9 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
                                                                  
 ## Tools
 <div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/vs.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src ="./images/IntelliJ.svg" alt="IntelliJ logo" width="8%" title='IntelliJ'/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src ="./images/Pycharm.svg" alt="Pycharm logo" width="8%" title='IntelliJ'/></a>
   <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/></a>
   <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="8%" title='Linux'/></a>
 
