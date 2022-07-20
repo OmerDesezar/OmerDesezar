@@ -2,8 +2,7 @@
 <p align="center">
   <a href="#"><img src="./images/banner.png" style="border-radius: 5px;" width="1000px" title="cover"></a>
 </p>
-<h3 align="center";">A FullStack software developer from Israel.</br>
-“A new challenge keeps the brain kicking and the heart ticking.”</h3>
+<h3 align="center";">A FullStack software developer from Israel.</h3>
 
 - 🌐 I love creating and being able to turn an idea into reality.
 
