@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤙, I'm Omer Desezar</h1>
 <p align="center">
-  <a href="#"><img src="./images/banner.png" style="border-radius: 5px;" width="1000px" title="cover"></a>
+  <a href="#"><img src="./images/banner.png" style="border-radius: 5px;" width="1000px"></a>
 </p>
 <h3 align="center";">A FullStack software developer from Israel.</h3>
 
