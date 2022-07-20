@@ -11,9 +11,7 @@
 - 👯 I’m looking to **Collaborate with other developers and share codes and solutions**
 
 - 🥅 2022 Goals: **Contribute to Open Source projects**
-
-- 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming**
-
+                    
 # Contact me
 
 <div>
